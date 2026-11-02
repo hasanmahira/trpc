@@ -157,6 +157,7 @@ jobs:
             minimal-react,
             minimal-per-procedure-errors,
             next-formdata,
+            next-minimal-app-router,
             next-minimal-starter,
             next-prisma-starter,
             next-prisma-todomvc,

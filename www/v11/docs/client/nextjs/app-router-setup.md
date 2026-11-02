@@ -32,6 +32,10 @@ We recommend reading TanStack React Query's [Advanced Server Rendering](https://
 and footguns to avoid.
 :::
 
+:::tip
+The [`next-minimal-app-router`](https://github.com/trpc/trpc/tree/main/examples/next-minimal-app-router) example is this setup as a runnable app, with a data transformer, a mutation and Playwright tests.
+:::
+
 ## Recommended file structure
 
 ```graphql
